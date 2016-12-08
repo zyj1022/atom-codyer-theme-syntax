@@ -1,14 +1,14 @@
 {
   "name": "codyer-theme-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "kingzhi <zyj10222@126.com>",
   "description": "A dark syntax theme that uses colorful color",
   "keywords": [
     "syntax",
     "theme",
-	"color",
-	"codyer"
+    "color",
+    "codyer"
   ],
   "repository": "https://github.com/zyj1022/atom-codyer-theme-syntax",
   "license": "MIT",
